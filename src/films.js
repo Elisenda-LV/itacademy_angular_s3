@@ -44,6 +44,7 @@ function orderByYear(movies) {
   });
 
   return moviesYear;
+  
 }
 
 // Exercise 6: Calculate the average of the movies in a category
