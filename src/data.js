@@ -524,7 +524,7 @@ const movies = [
     title: 'Oldeuboi',
     year: 2003,
     director: 'Chan-wook Park',
-    duration: '2h',
+    duration: '2h 00min',
     genre: ['Action', 'Drama', 'Mystery', 'Thriller'],
     score: 8.4
   },
